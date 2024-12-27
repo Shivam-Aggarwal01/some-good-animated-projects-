@@ -5,3 +5,5 @@
 <p>
   i tried to clone some ward winning websites
 </p>
+<p>it is not reponsive</P>
+
